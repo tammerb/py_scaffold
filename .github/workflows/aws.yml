@@ -1,4 +1,4 @@
-name: Python applications test with Github Actions
+name: Python applications test with Github Actions on AWS
 on: [push]
 jobs:
   build:
