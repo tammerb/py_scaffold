@@ -1,4 +1,4 @@
-name: Python applications test with Github Actions on Azure
+name: Python 3.7 applications test with Github Actions on Azure
 on: [push]
 jobs:
   build:
